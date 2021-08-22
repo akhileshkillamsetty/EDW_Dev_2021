@@ -1,0 +1,155 @@
+What is Power BI?
+
+"Powering BI"
+
+Added Power to BI.
+
+Added Power Features
+a) Multi platform display [Browser, Mobile, Tab etc...]
+b) Cloud [app.powerbi.com] and On-Premise
+c) Embedding [placing Power BI Reports in other applications]
+d) Self Service BI [End-End BI] in single application [Power BI Desktop]
+e) Easy management operations
+f) Pay as you go options [limited capacity and huge capacity accounts]
+g) Support for native and custom visuals
+h) QR Code generation
+i)  App sharing...[reports / dashboards can be shaed using apps]
+
+How do you define BI?
+BI is the process of converting business and non business data into decision making data.
+
+Input: Data [ Structured, Semi structured, Unstructured Data]
+
+Output: Report / Dashboard
+
+Tell me some of the popular BI Tools?
+
+Power BI, Tableau, Qlik view, Cognos BI, SAP BW BI etc...
+
+What are the BI processes / tools available from MS?
+a) Excel -Pivot / Power Pivot
+b) Project Cresend at Sharepoint level
+c) MS Dynamics--Partial BI
+d) SQL Server [DTS], Report Builder --Partial BI
+e) MSBI --Full BI-2005 onwards[2005, 2008, 2008 R2, 2012, 2014, 2016, 2017,2019]
+	SQL Server BI / MSBI / Microsoft BI
+f) Power BI [announced in 2013 July]
+	Each month we have update from 2013 july
+	In each update you will find
+	a) New features
+	b) Changes to existing features
+	c) Upcoming features etc...
+
+	Note: Two places to see [Month Blog, PBI blog...all updates]
+
+Which version of Power BI you are using?
+No version, but my PBI Desktop version is July 2021 update.
+PBI Desktop--> Help Menu--> About [2.93....]
+
+What is the minimal requirement to work with Power BI...if an organization need?
+
+Organization consideration:
+a) Number of users operated
+b) Amount of storage needed
+c) Pricing
+
+Configuration:
+
+a) Cloud configuration simple
+
+	Power BI Desktop-------------->Cloud Service [app.powerbi.com] No need to install
+
+b) On-Premises configuration [SQL DBA / Power BI Admin required]
+
+	Power BI Report Server Desktop--> Power BI Server [SQL Server required]
+	Note: Power BI Server configuration and SQL Server Configuration need to be focused
+
+Power BI Desktop:
+a) Windows 10 available [good for latest releases installations]
+b) RAM: 2 GB RAM [classroom], in organizations more than 8 GB ...[top: 25 GB  / 50 GB /100 GB]
+c) Processor: 1.5 Ghz [classroom], Organization level [medium: 4 core, top: 8 core / 16 core / 32 core]
+d) Display Size: 2k [classroom], Organizations better display 4k
+	My computer--> right click-->display settings-->
+
+Daily at 9.05--sharply at 10.05
+===================
+ 
+Homework:
+
+a) Cloud Service [Power BI Service or SAAS: Software as service] operation
+	1. Go to browser
+		Connect to app.powerbi.com with the below credentials [PPU : Premium Per 		User Details]
+
+		user name: vinaytech_729@vinaytechhouse.com
+		password:vinaytech@2021
+
+	2. Go to right hand side top corner and then see the connected user details
+	3. Create your working area to place reports, dashboards etc...[Workspace]
+	4. Upload report and see the report split in the workspace [ dataset, report structure]
+
+	5. Click on Report--> Monitor File menu, Export Menu, Comments, SubScription, Share, QR Code
+		etc... options
+b) Go to your mobile / tab, download and install Power BI App from Play Store / Google Store...
+
+	Connect using above credentials, see the look and feel.
+c) Install Power BI Desktop, Generate Queries, Save Report and then publish to cloud workspace [your workspace]
+
+	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
